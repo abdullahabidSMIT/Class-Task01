@@ -4,8 +4,8 @@
 //     alert('Hello ' + name)
 // }
 
-// welcomeUser("Hassaan")
-// welcomeUser("Mehtab")
+// welcomeUser(prompt("Enter a name."))
+// welcomeUser(prompt("Enter another name"))
 
 
 // ----------------------------------------------------------------------------------------------
